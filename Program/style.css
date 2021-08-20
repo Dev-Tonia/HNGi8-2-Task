@@ -1,0 +1,18 @@
+main {
+  text-align: center;
+  margin-top: 40vh;
+  font-size: 2rem;
+}
+
+.btn {
+  background-color: rgb(160, 229, 160);
+  padding: 1em;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.get-name {
+  margin-top: 1em;
+}
